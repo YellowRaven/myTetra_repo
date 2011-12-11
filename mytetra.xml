@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="1"/>
+ <content>
+  <node id="4141" name="Win API"/>
+  <node id="4142" name="OS Configuration">
+   <node id="4143" name="Linux">
+    <recordtable>
+     <record dir="0000000010" url="http://www.nixp.ru/articles/Настройка-сервера-SSH-(теория-и-практика).html" tags="sshd, ssh server, ssh configuration" author="cebka" id="4145" ctime="20110403175435" name="Настройка сервера SSH (теория и практика)" file="text.html"/>
+     <record dir="1323608475s91scq2cr1" crypt="0" url="http://www.ibm.com/developerworks/ru/library/l-network-filesystems/index.html?ca=drs-" tags="" author="" id="1323608475fe0nd89atg" ctime="20111211170115" name="Сетевые файловые системы и Linux" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="4152" name="Windows">
+    <recordtable>
+     <record dir="0000000013" url="" tags="" author="" id="4154" ctime="20110502233512" name="Logon screen background" file="text.html"/>
+     <record dir="0000000017" url="http://www.ardamis.com/2009/11/24/windows-time-off-when-dual-booting-linux/" tags="" author="" id="4163" ctime="20110528190732" name="Windows 7 time off when dual booting Fedora Linux" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node id="4146" name="OpenGL">
+   <recordtable>
+    <record dir="0000000011" url="http://web.cs.wpi.edu/~gogo/courses/mingw/" tags="MinGW, gcc, GLUT, OpenGL" author="" id="4148" ctime="20110404221449" name="MinGW+OpenGL+GLUT &quot;How-to-Install&quot;" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="4149" name="MinGW">
+   <recordtable>
+    <record dir="0000000012" url="http://www.adp-gmbh.ch/win/programming/simple_win.html" tags="C, MinGW, TextOut, linker error" author="" id="4151" ctime="20110404222055" name="A simple windows programm in C" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="4155" name="Стихи">
+   <recordtable>
+    <record dir="0000000014" url="" tags="Лонгфелло" author="Лонгфелло" id="4157" ctime="20110510221755" name="Вы, кто любите природу..." file="text.html"/>
+    <record dir="0000000015" url="" tags="Волошин" author="М. Волошин" id="4159" ctime="20110510222017" name="Из крови, пролитой в боях..." file="text.html"/>
+    <record dir="0000000016" url="" tags="Глебов" author="Тарас Глебов" id="4161" ctime="20110510222240" name="Блаженна плоть, что возжелал..." file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="1321543459vag1scss8f" name="OS tools">
+   <node id="1321543481i5xb5dzew8" name="Linux">
+    <recordtable>
+     <record dir="1321543528pjh59hfgls" crypt="0" url="http://habrahabr.ru/blogs/nix/132840/" tags="Linux, bc" author="" id="1321543528heydpk37m2" ctime="20111117192528" name="То, чего вы не ждали от калькулятора. Пасьянс на bc" file="text.html"/>
+     <record dir="13236036930k1w0lap9y" crypt="0" url="http://habrahabr.ru/blogs/vim/134194/" tags="vim ,color schemes" author="" id="1323603693gsp8ly8hwc" ctime="20111211154133" name="Цветовые схемы в Vim" file="text.html"/>
+     <record dir="1323603931l53vhn58ja" crypt="0" url="http://habrahabr.ru/blogs/linux/134307/" tags="" author="" id="13236039310q5tcn2y6s" ctime="20111211154531" name="Поддержка SFTP в midnight commander" file="text.html"/>
+    </recordtable>
+    <node id="13236091056bs9bcpqbg" name="Bash">
+     <recordtable>
+      <record dir="1323609140iafdcy0tyk" crypt="0" url="http://habrahabr.ru/blogs/nix/133860/" tags="bash, getopts, getopts_long, shell scripting" author="" id="1323609140k512yk6s7y" ctime="20111211171220" name="bash скрипт с поддержкой длинных (gnu-style) опций" file="text.html"/>
+      <record dir="1323609156w04sm1axdo" crypt="0" url="http://habrahabr.ru/blogs/nix/132779/" tags="Bash, spark" author="" id="13236091567skgqpz74b" ctime="20111211171236" name="Bash-скрипт для искрографиков" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
+  <node id="13236037588slls4w3j1" name="Fun">
+   <node id="1323603772mefanq0vqr" name="IT Happens Favorites">
+    <recordtable>
+     <record dir="132360377243l65vzra9" crypt="0" url="http://ithappens.ru/story/7278" tags="" author="" id="1323603772pilwpfiev5" ctime="20111211154252" name="7278: Пенделеупорность" file="text.html"/>
+     <record dir="1323603772c9mi96lxxn" crypt="0" url="http://ithappens.ru/story/7283" tags="" author="" id="13236037723mjjz7d44f" ctime="20111211154252" name="7283: Как низко я пал!" file="text.html"/>
+     <record dir="1323603772pohn4o0ue9" crypt="0" url="http://ithappens.ru/story/7284" tags="" author="" id="132360377209u3jrzo9f" ctime="20111211154252" name="7284: Да и то в read-only" file="text.html"/>
+     <record dir="13236037723hiwvryscl" crypt="0" url="http://ithappens.ru/story/7291" tags="" author="" id="1323603772rs8gyjc3et" ctime="20111211154252" name="7291: Когда белое станет чёрным" file="text.html"/>
+     <record dir="1323603772os593e5qto" crypt="0" url="http://ithappens.ru/story/7294" tags="" author="" id="1323603772enurci5no2" ctime="20111211154252" name="7294: Бригада трезвых грузчиков выедет к заказчику" file="text.html"/>
+     <record dir="1323603772wkyneumtv1" crypt="0" url="" tags="http://ithappens.ru/story/7612" author="" id="1323603772rrrr6jq2bn" ctime="20111211154252" name="7612: Сатана в миниатюре" file="text.html"/>
+     <record dir="132360377217y20varon" crypt="0" url="http://ithappens.ru/story/7662" tags="" author="" id="1323603772i87j2fwbba" ctime="20111211154252" name="7662: Чернили синими чернилами чертёж" file="text.html"/>
+     <record dir="1323603772b2qlriz47v" crypt="0" url="http://ithappens.ru/story/7700" tags="" author="" id="1323603772r5hnbzrr1o" ctime="20111211154252" name="7700: Эпик-файлы" file="text.html"/>
+     <record dir="132360377388g3hk71c1" crypt="0" url="" tags="http://ithappens.ru/story/7721" author="" id="1323603773a9f2gz5dgj" ctime="20111211154253" name="7721: Хлебом не корми, дай код поковырять" file="text.html"/>
+     <record dir="13236037736hr5daeqbt" crypt="0" url="http://ithappens.ru/story/7724" tags="" author="" id="13236037730wlsxjopdl" ctime="20111211154253" name="7724: Акела не промахнулся, ему так больше нравится" file="text.html"/>
+     <record dir="132360377302vfjlu4cd" crypt="0" url="http://ithappens.ru/story/7793" tags="" author="" id="1323603773xigg06raal" ctime="20111211154253" name="7793: Реабилитация после операции по выпрямлению рук" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="1323603780vmw0p0k3el" name="Pictures">
+    <recordtable>
+     <record dir="13236038000yli9mj558" crypt="0" url="" tags="" author="" id="132360380096ndl3mxef" ctime="20111211154320" name="Animals &amp; Nature" file="text.html"/>
+     <record dir="13236086699mquhm44hp" crypt="0" url="" tags="" author="" id="1323608669pfmc30wub6" ctime="20111211170429" name="Structures" file="text.html"/>
+     <record dir="1323608707mmf1x3a3fa" crypt="0" url="" tags="" author="" id="1323608707s946c0sk5x" ctime="20111211170507" name="Texts" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="1323603847mlxnpmnkwf" name="Demotivators.ru">
+    <recordtable>
+     <record dir="1323603880r3tb888kbw" crypt="0" url="http://demotivators.ru/posters/199017/utrennyaya-zaryadka.htm" tags="" author="" id="13236038802jqp9pieju" ctime="20111211154440" name="Утренняя зарядка" file="text.html"/>
+     <record dir="1323608895zmoxj5j15l" crypt="0" url="" tags="" author="" id="1323608895mz1dwv6p64" ctime="20111211170815" name="Субьективность восприятия" file="text.html"/>
+     <record dir="1323608916yk04kwcido" crypt="0" url="" tags="" author="" id="1323608916c8o0lpihou" ctime="20111211170836" name="Парковка в Индии" file="text.html"/>
+     <record dir="1323609065bkx0ba0uiz" crypt="0" url="" tags="" author="" id="13236090659wfj39p5xk" ctime="20111211171105" name="Болгарская музыка" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node id="13236080402n23zcg2b1" name="Development">
+   <node id="1323608045bxcjuva2k5" name="Games">
+    <recordtable>
+     <record dir="1323608779169pvf1p23" crypt="0" url="http://habrahabr.ru/blogs/gdev/133983/" tags="C#, game, development" author="" id="1323608779v8wmjs99mw" ctime="20111211170619" name="Impressive Solids: делаем игру на C# под OpenGL, часть I" file="text.html"/>
+     <record dir="1323608082mzw4yojp6l" crypt="0" url="http://habrahabr.ru/blogs/gdev/134283/" tags="C#, game, development" author="" id="132360808215xcyogfvp" ctime="20111211165442" name="Impressive Solids: делаем игру на C# под OpenGL, часть II" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="1323608997934m2dpmeq" name="Linux">
+    <recordtable>
+     <record dir="1323609037wvnrib9nbn" crypt="0" url="http://habrahabr.ru/blogs/open_source/133408/" tags="gnu, c language, linux, coreutils" author="" id="1323609037efijlnervl" ctime="20111211171037" name="Разбираем исходный код GNU Coreutils: утилита yes" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+ </content>
+</root>
