@@ -41,6 +41,8 @@
      <record dir="1321543528pjh59hfgls" crypt="0" url="http://habrahabr.ru/blogs/nix/132840/" tags="Linux, bc" author="" id="1321543528heydpk37m2" ctime="20111117192528" name="То, чего вы не ждали от калькулятора. Пасьянс на bc" file="text.html"/>
      <record dir="13236036930k1w0lap9y" crypt="0" url="http://habrahabr.ru/blogs/vim/134194/" tags="vim ,color schemes" author="" id="1323603693gsp8ly8hwc" ctime="20111211154133" name="Цветовые схемы в Vim" file="text.html"/>
      <record dir="1323603931l53vhn58ja" crypt="0" url="http://habrahabr.ru/blogs/linux/134307/" tags="" author="" id="13236039310q5tcn2y6s" ctime="20111211154531" name="Поддержка SFTP в midnight commander" file="text.html"/>
+     <record dir="1323610768pip4y0pjvo" crypt="0" url="" tags="" author="" id="1323610768ljxct8oppa" ctime="20111211173928" name="Создание разделов и файловых систем" file="text.html"/>
+     <record dir="1323610888mh2u750mjp" crypt="0" url="" tags="" author="" id="13236108887etpbt3j7z" ctime="20111211174128" name="Управление разрешениями и правами владения файлов" file="text.html"/>
     </recordtable>
     <node id="13236091056bs9bcpqbg" name="Bash">
      <recordtable>
