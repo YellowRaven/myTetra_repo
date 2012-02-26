@@ -83,6 +83,12 @@
      <record dir="1323609065bkx0ba0uiz" crypt="0" url="" tags="" author="" id="13236090659wfj39p5xk" ctime="20111211171105" name="Болгарская музыка" file="text.html"/>
     </recordtable>
    </node>
+   <node id="13302622303990yxlmvv" name="ANEKDOT.RU">
+    <recordtable>
+     <record dir="1330262274tmxl0asd0k" crypt="0" url="" tags="" author="" id="1330262274i1yuxwmdjc" ctime="20120226171754" name="Истории" file="text.html"/>
+     <record dir="1330262469qahyzn02se" crypt="0" url="" tags="" author="" id="1330262469q2mlom6g1w" ctime="20120226172109" name="Анекдоты" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node id="13236080402n23zcg2b1" name="Development">
    <node id="1323608045bxcjuva2k5" name="Games">
